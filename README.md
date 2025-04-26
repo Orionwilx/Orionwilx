@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Wolf-Programming123<br><br>🌱 I’m currently learning English<br><br>👯 I’m looking to collaborate on Wolf-Programming123<br><br>💬 Ask me about React, Angular, SQL<br><br>📫 How to reach me wilman3d@hotmail.com<br><br>Portfolio <a hreft="https://porfolio-orion.netlify.app/">My portfolio</a></p>
+<p align="left">🔭 I’m currently working on Wolf-Programming123<br><br>🌱 I’m currently learning English<br><br>👯 I’m looking to collaborate on Wolf-Programming123<br><br>💬 Ask me about React, Angular, SQL<br><br>📫 How to reach me wilman3d@hotmail.com<br><br>Portfolio <a href="https://porfolio-orion.netlify.app/" target="_blank">My portfolio</a></p>
 
 ###
 
