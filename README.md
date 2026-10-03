@@ -59,7 +59,7 @@ I build business software that runs in production: from the database and the Lar
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Equipment & Maintenance SaaS** *(private)* | Admin and client portals for maintenance companies: clients, equipment records, work orders, technicians, PDF/Excel reports, role-based access. One isolated instance per client. | Laravel · Blade · Tailwind · Alpine.js · Spatie Permission · AWS Lightsail |
+| [**Equipment & Maintenance SaaS**](https://github.com/Orionwilx/maintenance-saas-case-study) *(case study · code private)* | Admin and client portals for maintenance companies: clients, equipment records, work orders, technicians, PDF/Excel reports, role-based access. One isolated instance per client. | Laravel · Blade · Tailwind · Alpine.js · Spatie Permission · AWS Lightsail |
 | [laravel-technical-test](https://github.com/Orionwilx/laravel-technical-test) | Full-stack SPA built as a technical assessment | Laravel · Inertia · React · TypeScript · Radix UI · Tailwind |
 | [MicroCommerce-SpringBoot](https://github.com/Orionwilx/MicroCommerce-SpringBoot) | E-commerce built on a microservices architecture | Java · Spring Boot · MongoDB · PostgreSQL · Docker |
 | [AppointmentBookingSystem](https://github.com/Orionwilx/AppointmentBookingSystem) | Medical appointment scheduling system | Java |
