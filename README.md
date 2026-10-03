@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Orionwilx.Orionwilx&" />
 
-**Full-Stack Developer** from Santa Marta, Colombia 🇨🇴 · Systems Engineer (Universidad del Magdalena)
+**Full-Stack Developer** from Santa Marta, Colombia · Systems Engineer (Universidad del Magdalena)
 
 I build business software that runs in production: from the database and the Laravel backend to the UI and the AWS deployment.
 
@@ -22,7 +22,7 @@ I build business software that runs in production: from the database and the Lar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask" />
 </p>
 
 **Frontend & Mobile**
